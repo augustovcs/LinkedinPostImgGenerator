@@ -1,0 +1,14 @@
+sk-proj-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+# Exemplo de formato de uma chave da OpenAI (este NÃO é um valor real).
+#
+# Opção recomendada: NÃO use este arquivo. Configure a variável de ambiente
+# OPENAI_API_KEY, que é a forma como gerar_imagens.py lê a chave:
+#
+#   PowerShell (sessão atual):  $env:OPENAI_API_KEY = "sk-..."
+#   PowerShell (permanente):    setx OPENAI_API_KEY "sk-..."
+#   bash/zsh:                   export OPENAI_API_KEY="sk-..."
+#
+# Se mesmo assim quiser guardar a chave em arquivo, copie este para
+# apikey.txt e cole sua chave real. O apikey.txt está no .gitignore para
+# nunca ser enviado ao repositório.
