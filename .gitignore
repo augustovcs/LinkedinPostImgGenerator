@@ -1,0 +1,13 @@
+# Saída de imagens geradas pelo script
+imagens/
+
+# Chave de API real — NUNCA commitar
+Posts/apikey.txt
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
